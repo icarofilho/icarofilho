@@ -22,7 +22,7 @@ PYTHON | MySQL
    <img aling="center" alt="icaro_linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%">
 </a>
 <a  href="https://www.instagram.com/icaro.ti/" target="_blank">
-   <img aling="center" alt="icaro_instagram" height="30" width="30" src="https://img-premium.flaticon.com/png/512/1409/1409946.png?token=exp=1623261062~hmac=2098940d3202b44c009845615400e95b" style="max-width:100%">
+   <img aling="center" alt="icaro_instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" style="max-width:100%">
 </a>
 <a href="https://th3devway.blogspot.com/" target="_blank">
    <img aling="center" alt="icaro_blog" height="30" width="30" src="https://image.flaticon.com/icons/png/512/255/255310.png" style="max-width:100%">
