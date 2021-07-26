@@ -1,3 +1,4 @@
+![alt banner](banner.svg)
 ## Hi, I'm Icaro Ferreira  
 
 
