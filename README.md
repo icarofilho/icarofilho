@@ -1,24 +1,30 @@
-![alt banner](banner.svg)
-## Hi, I'm Icaro Ferreira  
+<!-- ![alt banner](imgs/banner.svg) -->
+<img src="imgs/banner.svg" alt="banner icaro">
+<h1>Hi, I'm Ícaro Ferreira</h1>
 
 
-### About mex
+<h2>About me</h2>
+<ul>
+   <li>Bachelor of Aeronautical Science</li>
+   <li>Programming student</li>
+   <li>Student moderator of the <a href="https://www.estudonauta.com/">ESTUDONAUTA.COM </a>forum</li>
+</ul>
 
-* Programmer
-* Bachelor of Aeronautical Science.
 <hr>
 
-### Skills
-
-[python]: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "python"
-[MySQL]: https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "mysql"
-
-PYTHON | MySQL
---- | ---
-![python] | ![MySQL]
+<h2>Skills</h2>
+<img src="imgs/html.svg" width="50px" alt="tag html">
+<img src="imgs/css.svg" width="50px" alt="tag css">
+<img src="imgs/javascript.svg" width="50px" alt="tag javascript">
+<img src="imgs/python.svg" width="50px" alt="tag python">
+<!-- 
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> -->
 <hr>
 
-### Find me around the world :earth_americas:
+<h2>Find me around the world</h2> 
 <a href="https://www.linkedin.com/in/icarofilho/" target="_blank">
    <img aling="center" alt="icaro_linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%">
 </a>
@@ -30,23 +36,7 @@ PYTHON | MySQL
 </a>
 
 <hr>
-### **My projects**
+<h2>My projects</h2>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarofilho&layout=compact)](https://github.com/icarofilho/github-readme-stats)
-
-
-<!--
-**icarofilho/icarofilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
