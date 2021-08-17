@@ -13,10 +13,12 @@
 <hr>
 
 <h2>Skills</h2>
-<img src="imgs/html.svg" width="50px" alt="tag html">
-<img src="imgs/css.svg" width="50px" alt="tag css">
-<img src="imgs/javascript.svg" width="50px" alt="tag javascript">
-<img src="imgs/python.svg" width="50px" alt="tag python">
+<section style="display: inline-block">
+   <img style="display: inline-block" src="imgs/html.svg" width="50px" alt="tag html">
+   <img style="display: inline-block" src="imgs/css.svg" width="50px" alt="tag css">
+   <img style="display: inline-block" src="imgs/javascript.svg" width="50px" alt="tag javascript">
+   <img style="display: inline-block" src="imgs/python.svg" width="50px" alt="tag python">
+</section>
 <!-- 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
