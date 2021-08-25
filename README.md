@@ -1,46 +1,78 @@
-<!-- ![alt banner](imgs/banner.svg) -->
-<img src="imgs/banner.svg" alt="banner icaro">
-<h1>Hi, I'm Ícaro Ferreira</h1>
+<header>
+    <img src="imgs/banner.svg" alt="banner icaro">
+    <h1>Hi, I'm Ícaro Ferreira</h1>
+</header>
 
+<!-- About ME -->
+<section>
+    <h2>About me</h2>
+    <ul>
+        <li>Bachelor of Aeronautical Science</li>
+        <li>FullStack student at SENAI <a href="https://cursos.sesisenai.org.br/detalhes/devinhouse/25558">[DEVinHouse]</a></li>
+        <li>Python Dev student at <a href="https://www.bylearn.com.br/">ByLearn</a></li>
+        <li>Student mentor at <a href="https://www.estudonauta.com/">ESTUDONAUTA.COM </a>'s forum <small>(helping others student to code)</small></li>
+        <li>Advanced English</li>
+    </ul>
+    <hr>
+</section>
 
-<h2>About me</h2>
-<ul>
-   <li>Bachelor of Aeronautical Science</li>
-   <li>Programming student</li>
-   <li>Student moderator of the <a href="https://www.estudonauta.com/">ESTUDONAUTA.COM </a>forum</li>
-</ul>
-
-<hr>
-
-<h2>Skills</h2>
-<table>
-   <tr>
-      <th><img src="imgs/html.svg" width="40px" alt="tag html"></th>
-      <th><img src="imgs/css.svg" width="40px" alt="tag css"></th>
-      <th><img src="imgs/javascript.svg" width="40px" alt="tag javascript"></th>
-      <th><img src="imgs/python.svg" width="40px" alt="tag python"></th>
-   </tr>
-</table>
-<!-- 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> -->
-<hr>
-
-<h2>Find me around the world</h2> 
-<a href="https://www.linkedin.com/in/icarofilho/" target="_blank">
-   <img aling="center" alt="icaro_linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%">
-</a>
-<a  href="https://www.instagram.com/icaro.ti/" target="_blank">
-   <img aling="center" alt="icaro_instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" style="max-width:100%">
-</a>
-<a href="https://th3devway.blogspot.com/" target="_blank">
-   <img aling="center" alt="icaro_blog" height="30" width="30" src="https://image.flaticon.com/icons/png/512/255/255310.png" style="max-width:100%">
-</a>
-
-<hr>
-<h2>My projects</h2>
-
-
+<!-- Skills -->
+<section>
+    <h2>Skills</h2>
+    <!-- BASIC -->
+    <ul>
+        <li>
+            <h4><strong>BASIC</strong></h4>
+            <table>
+                <th>HTML5</th>
+                <th>CSS3</th>
+                <th>JScript</th>
+                <th>C#</th>
+                <th>MySQL</th>
+                <th>Postgre</th>
+                <tr>
+                <td><img src="imgs/html.svg" width="40px" alt="tag html"></td>
+                <td><img src="imgs/css.svg" width="40px" alt="tag css"></td>
+                <td><img src="imgs/javascript.svg" width="40px" alt="tag javascript"></td>
+                <td><img src="imgs/csharp.svg" width="40px" alt="tag javascript"></td>
+                <td><img src="imgs/mysql.svg" width="40px" alt="tag javascript"></td>
+                <td><img src="imgs/postgresql.svg" width="40px" alt="tag javascript"></td>
+                </tr>
+            </table>
+        </li>
+        <li>
+            <h4><strong>INTERMEDIATE</strong></h4>
+            <table>
+                <th>Python</th>
+                <tr>
+                <td><img src="imgs/python.svg" width="40px" alt="tag python"></td>
+                </tr>
+            </table>
+        </li>
+    </ul>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarofilho&layout=compact)](https://github.com/icarofilho/github-readme-stats)
+    <hr>
+</section>
+
+<!-- FIND ME AROUND THE WORLD -->
+<section>
+    <h2>Find me around the world</h2>
+    <a href="https://www.linkedin.com/in/icarofilho/" target="_blank">
+        <img aling="center" alt="icaro_linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%">
+    </a>
+    <a  href="https://www.instagram.com/icaro.ti/" target="_blank">
+        <img aling="center" alt="icaro_instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" style="max-width:100%">
+    </a>
+    <a href="https://th3devway.blogspot.com/" target="_blank">
+        <img aling="center" alt="icaro_blog" height="30" width="30" src="https://image.flaticon.com/icons/png/512/255/255310.png" style="max-width:100%">
+    </a>
+    
+<hr>
+</section>
+
+
+<!-- <h2>Hackathon</h2> 
+
+<hr> -->
+
