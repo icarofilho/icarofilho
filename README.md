@@ -84,7 +84,7 @@
         <br>
         <li><h4><strong>CHALLENGE PROFILE</strong><br>
         </h4>
-        <a href="https://www.codewars.com/users/icarofilho"><img src="https://www.codewars.com/users/icarofilho/badges/small" width="40"></a>
+        <a href="https://www.codewars.com/users/icarofilho"><img src="https://www.codewars.com/users/icarofilho/badges/small"></a>
         </li>
     </ul>
     
@@ -100,7 +100,7 @@
     <h2>Bootcamps Certifications</h2>
     <ul>
         <li><h3><strong>Kenzie Academy</strong></h3><br>
-        <a href="bootcamps/kenzieAcademy/21-25-06-21.jpeg"><img src="bootcamps/kenzieAcademy/21-25-06-21.jpeg"></a>
+        <a href="bootcamps/kenzieAcademy/21-25-06-21.jpeg"><img src="bootcamps/kenzieAcademy/21-25-06-21.jpeg"  width="80" alt="certificado 21-25/06/2021"></a>
 </li>
     
 </ul>
