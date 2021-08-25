@@ -23,7 +23,7 @@
     <ul>
         <li>
             <h4><strong>BASIC</strong></h4>
-            <table>
+            <table style="text-align: center">
                 <th>HTML5</th>
                 <th>CSS3</th>
                 <th>JScript</th>
@@ -50,23 +50,43 @@
             </table>
         </li>
     </ul>
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarofilho&layout=compact)](https://github.com/icarofilho/github-readme-stats)
-    <hr>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarofilho&layout=compact)
+
+
+
+<hr>
 </section>
 
 <!-- FIND ME AROUND THE WORLD -->
 <section>
     <h2>Find me around the world</h2>
-    <a href="https://www.linkedin.com/in/icarofilho/" target="_blank">
-        <img aling="center" alt="icaro_linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%">
-    </a>
-    <a  href="https://www.instagram.com/icaro.ti/" target="_blank">
-        <img aling="center" alt="icaro_instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" style="max-width:100%">
-    </a>
-    <a href="https://th3devway.blogspot.com/" target="_blank">
-        <img aling="center" alt="icaro_blog" height="30" width="30" src="https://image.flaticon.com/icons/png/512/255/255310.png" style="max-width:100%">
-    </a>
+    <ul>
+        <li><h4><strong>SOCIAL MEDIA</strong><br>
+        </h4>
+            <a href="https://www.linkedin.com/in/icarofilho/" target="_blank">
+                <img aling="center" alt="icaro_linkedin" height="30" width="40" src="imgs/linkedin.svg" style="max-width:100%">
+            </a>
+            <a  href="https://www.instagram.com/icaro.ti/" target="_blank">
+                <img aling="center" alt="icaro_instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" style="max-width:100%">
+            </a>
+            <a href="https://th3devway.blogspot.com/" target="_blank">
+                <img aling="center" alt="icaro_blog" height="30" width="30" src="imgs/blogger.svg" style="max-width:100%">
+            </a>
+            <a href="#" target="_blank">
+                <img aling="center" alt="icaro_blog" height="30" width="30" src="imgs/youtube.svg" style="max-width:100%">
+            </a>
+            <a href="mailto:icaro.ferreira.filho@gmail.com" target="_blank">
+                <img aling="center" alt="icaro_blog" height="30" width="30" src="imgs/gmail.svg" style="max-width:100%">
+            </a>
+        </li>
+        <br>
+        <li><h4><strong>CHALLENGE PROFILE</strong><br>
+        </h4>
+        <a href="https://www.codewars.com/users/icarofilho"><img src="https://www.codewars.com/users/icarofilho/badges/small" width="40"></a>
+        </li>
+    </ul>
     
 <hr>
 </section>
@@ -75,4 +95,15 @@
 <!-- <h2>Hackathon</h2> 
 
 <hr> -->
+
+<section>
+    <h2>Bootcamps Certifications</h2>
+    <ul>
+        <li><h3><strong>Kenzie Academy</strong></h3><br>
+        <a href="bootcamps/kenzieAcademy/21-25-06-21.jpeg"><img src="bootcamps/kenzieAcademy/21-25-06-21.jpeg"></a>
+</li>
+    
+</ul>
+</section>
+
 
