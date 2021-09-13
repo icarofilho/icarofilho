@@ -95,25 +95,140 @@
 </section>
 
 
-<!-- <h2>Hackathon</h2> 
-
-<hr> -->
+<h2>Hackathon Certifications</h2> 
+<details>
+<!-- RECODEPRO -->
+    <summary><strong>Recode Pro</strong></summary>
+    <a href="hackathon/recodepro/recode1.jpeg" target="_blank">
+        <img src="hackathon/recodepro/recode1.jpeg" height="60" alt="mod0: primeiros passos" title="mod0: primeiros passos">
+    </a>
+    <img src="imgs/vazio.png" width="10px">
+</details>
+<hr>
 <!-- Courses certifications -->
 <h2>Courses certifications</h2>
 <details>
-<summary><strong></strong></summary>
-<div>
-<h2>C#</h2>
-<a><img></a>
-<a><img></a>
-</div>
+    <summary><strong>Estudonauta</strong></summary>
+    <div>
+    <!-- PROGRAMAÇÃO BASICA -->
+        <div>
+            <h3>Programação Básica</h3>
+            <a href="course/estudonauta/prog-basica/pb0.jpeg" target="_blank">
+                <img src="course/estudonauta/prog-basica/pb0.jpeg" height="60" alt="mod0: primeiros passos" title="mod0: primeiros passos">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/prog-basica/pb1.jpeg" target="_blank">
+                <img src="course/estudonauta/prog-basica/pb1.jpeg" height="60" alt="mod1: primeiros comandos" title="mod1: primeiros comandos">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/prog-basica/pb2.jpeg" target="_blank">
+                <img src="course/estudonauta/prog-basica/pb2.jpeg" height="60" alt="mod2: condicionais" title="mod2: condicionais">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/prog-basica/pb3.jpeg" target="_blank">
+                <img src="course/estudonauta/prog-basica/pb3.jpeg" height="60" alt="mod3: repetições" title="mod3: csharp">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/prog-basica/pb4.jpeg" target="_blank">
+                <img src="course/estudonauta/prog-basica/pb4.jpeg" height="60" alt="mod4: variaveis compostas" title="mod4: variaveis compostas">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/prog-basica/pb5.jpeg" target="_blank">
+                <img src="course/estudonauta/prog-basica/pb5.jpeg" height="60" alt="mod5: rotinas" title="mod5: csharp">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+        </div>
+        <!-- HTML/CSS -->
+        <div>
+            <h3>HTML5 / CSS3</h3>
+            <a href="course/estudonauta/html-css/hc1.jpeg" target="_blank">
+                <img src="course/estudonauta/html-css/hc1.jpeg" height="60" alt="mod1: html5 + css3" title="mod1: html5 + css3">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/html-css/hc2.jpeg" target="_blank">
+                <img src="course/estudonauta/html-css/hc2.jpeg" height="60" alt="mod2: html5 + css3" title="mod2: html5 + css3">
+            </a>
+        </div>
+        <!-- JAVASCRIPT -->
+        <div>
+            <h3>JavaScript</h3>
+            <a href="course/estudonauta/js/js.jpeg" target="_blank">
+                <img src="course/estudonauta/js/js.jpeg" height="60" alt="mod0: javascript" title="mod0: javascript">
+            </a>
+        </div>
+        <!-- C SHARP -->
+        <div>
+            <h3>C#</h3>
+            <a href="course/estudonauta/csharp/csharp0.jpeg" target="_blank">
+                <img src="course/estudonauta/csharp/csharp0.jpeg" height="60" alt="mod0: csharp" title="mod0: csharp">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/csharp/csharp1.jpeg" target="_blank">
+                <img src="course/estudonauta/csharp/csharp1.jpeg" height="60" alt="mod1: csharp" title="mod1: csharp">
+            </a>
+        </div>
+        <!-- PYTHON -->
+        <div>
+            <h3>Python</h3>
+            <a href="course/estudonauta/python/p1.jpeg" target="_blank">
+                <img src="course/estudonauta/python/p1.jpeg" height="60" alt="mod1 fundamentos" title="mod1 fundamentos">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/python/p2.jpeg" target="_blank">
+                <img src="course/estudonauta/python/p2.jpeg" height="60" alt="mod2 estruturas de controle" title="mod2 estruturas de controle">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/python/p3.jpeg" target="_blank">
+                <img src="course/estudonauta/python/p3.jpeg" height="60" alt="mod3 estruturas de repetição" title="mod3 estruturas de repetição">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+        </div>
+        <!-- MYSQL -->
+        <div>
+            <h3>MySQL</h3>
+            <a href="course/estudonauta/mysql/mysql0.jpeg" target="_blank">
+                <img src="course/estudonauta/mysql/mysql0.jpeg" height="60" alt="mod0: mysql" title="mod0: mysql">
+            </a>
+        </div>
+        <!-- REDES -->
+        <div>
+            <h3>Redes de Computadores</h3>
+            <a href="course/estudonauta/redes/r0.jpeg" target="_blank">
+                <img src="course/estudonauta/redes/r0.jpeg" height="60" alt="mod0: fundamentos de rede" title="mod0: fundamentos de rede">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/redes/r1.jpeg" target="_blank">
+                <img src="course/estudonauta/redes/r1.jpeg" height="60" alt="mod1: cabeamento" title="mod1: cabeamento">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/redes/r2.jpeg" target="_blank">
+                <img src="course/estudonauta/redes/r2.jpeg" height="60" alt="mod2: tcp-ip e wi-fi" title="mod2: tcp-ip e wi-fi">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/redes/r3.jpeg" target="_blank">
+                <img src="course/estudonauta/redes/r3.jpeg" height="60" alt="mod3: endereçamento ip" title="mod3: endereçamento ip">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/redes/r4.jpeg" target="_blank">
+                <img src="course/estudonauta/redes/r4.jpeg" height="60" alt="mod4: equipamentos de rede" title="mod4: equipamentos de rede">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="course/estudonauta/redes/r5.jpeg" target="_blank">
+                <img src="course/estudonauta/redes/r5.jpeg" height="60" alt="mod5: protocolo e modelo OSI" title="mod5: protocolo e modelo OSI">
+            </a>
+            <img src="imgs/vazio.png" width="10px">
+        </div>
+    </div>
 </details>
+<hr>
 <!-- BOOTCAMPS -->
 <section>
     <h2>Bootcamps Certifications</h2>
     <!-- DIGITAL INNOVATION ONE -->
     <details>
-    <summary><strong>Digital Innovation One</strong></summary>
+        <summary><strong>Digital Innovation One</strong></summary>
+        <a href="bootcamps/dio/santanderfullstack1.jpeg" target="_blank"><img src="bootcamps/dio/santanderfullstack1.jpeg"  height="60" alt="Ui/Ux + Prototype web" title="Ui/Ux + Prototype web"></a>
+        <img src="imgs/vazio.png" width="10px">
     </details>
     <details>
     <!-- KENZIE ACADEMY -->
@@ -157,6 +272,12 @@
     <details>
         <summary><strong>Flai</strong></summary>
         <a href="bootcamps/flai/f1.jpeg" target="_blank"><img src="bootcamps/flai/f1.jpeg"  height="60" alt="Data Science" title="Data Science"></a>
+        <img src="imgs/vazio.png" width="10px">
+    </details>
+    <!-- CISCO -->
+    <details>
+        <summary><strong>Cisco</strong></summary>
+        <a href="bootcamps/cisco/cisco0.jpeg" target="_blank"><img src="bootcamps/cisco/cisco0-0.jpeg"  height="60" alt="cisco bootcamp" title="cisco bootcamp"></a>
         <img src="imgs/vazio.png" width="10px">
     </details>
 </section>
