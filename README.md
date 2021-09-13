@@ -1,5 +1,5 @@
-<header>
-    <img src="imgs/banner.svg" alt="banner icaro">
+<header align="center">
+    <img src="imgs/banner.svg" alt="banner icaro" width="600px">
     <h1>Hi, I'm Ícaro Ferreira</h1>
 </header>
 
@@ -50,7 +50,9 @@
             </table>
         </li>
     </ul>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarofilho&layout=compact">
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarofilho&layout=compact">
+    </div>
 <hr>
 </section>
 
@@ -64,16 +66,16 @@
                 <img aling="center" alt="icaro_linkedin" height="30" width="40" src="imgs/linkedin.svg" style="max-width:100%">
             </a>
             <img src="imgs/vazio.png" width="10px">
-            <a  href="https://www.instagram.com/icaro.ti/" target="_blank">
+            <a  href="https://www.instagram.com/icarofilho/" target="_blank">
                 <img aling="center" alt="icaro_instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" style="max-width:100%">
             </a>
-            <img src="imgs/vazio.png" width="10px">
+            <!-- <img src="imgs/vazio.png" width="10px">
             <a href="https://th3devway.blogspot.com/" target="_blank">
-                <img aling="center" alt="icaro_blog" height="30" width="30" src="imgs/blogger.svg" style="max-width:100%">
+                <img aling="center" alt="icaro_blog" height="30" width="30" src="imgs/blogger.svg" style="max-width:100%"> -->
             </a>
-            <img src="imgs/vazio.png" width="10px">
+          <!--   <img src="imgs/vazio.png" width="10px">
             <a href="#" target="_blank">
-                <img aling="center" alt="icaro_blog" height="30" width="30" src="imgs/youtube.svg" style="max-width:100%">
+                <img aling="center" alt="icaro_blog" height="30" width="30" src="imgs/youtube.svg" style="max-width:100%"> -->
             </a>
             <img src="imgs/vazio.png" width="10px">
             <a href="mailto:icaro.ferreira.filho@gmail.com" target="_blank">
@@ -96,45 +98,67 @@
 <!-- <h2>Hackathon</h2> 
 
 <hr> -->
-
+<!-- Courses certifications -->
+<h2>Courses certifications</h2>
+<details>
+<summary><strong></strong></summary>
+<div>
+<h2>C#</h2>
+<a><img></a>
+<a><img></a>
+</div>
+</details>
+<!-- BOOTCAMPS -->
 <section>
     <h2>Bootcamps Certifications</h2>
-    <ul>
-        <li>
-            <h3><strong>Kenzie Academy</strong></h3><br>
+    <!-- DIGITAL INNOVATION ONE -->
+    <details>
+    <summary><strong>Digital Innovation One</strong></summary>
+    </details>
+    <details>
+    <!-- KENZIE ACADEMY -->
+        <summary><strong>Kenzie Academy</strong><br>
+        </summary>
+        <div>
             <a href="bootcamps/kenzieAcademy/ka3.jpeg" target="_blank"><img src="bootcamps/kenzieAcademy/ka3.jpeg"  height="60" alt="Introdução a programação com python" title="Introdução a programação com python"></a>
             <img src="imgs/vazio.png" width="10px">
             <a href="bootcamps/kenzieAcademy/ka1.jpeg" target="_blank"><img src="bootcamps/kenzieAcademy/ka1.jpeg"  height="60" alt="semana web" title="Semana web"></a>
             <img src="imgs/vazio.png" width="10px">
             <a href="bootcamps/kenzieAcademy/ka2.jpg" target="_blank"><img src="bootcamps/kenzieAcademy/ka2.jpg"  height="60" alt="Introdução a programação com javascript" title="Introdução a programação com javascript"></a>
-        </li>
+            <br>
+        </div>
+    </details>
+    <!-- ESTAÇÃO HACK -->
+    <details>
+        <summary><strong>Estação Hack [Facebook] + Cel.Lep</strong></summary>
+        <a href="bootcamps/cellep/c1.jpeg" target="_blank"><img src="bootcamps/cellep/c1.jpeg"  height="60" alt="Backend" title="BackEnd"></a>
+        <img src="imgs/vazio.png" width="10px">
+        <a href="bootcamps/cellep/c2.jpeg" target="_blank"><img src="bootcamps/cellep/c2.jpeg"  height="60" alt="Ui/Ux + Prototype web" title="Ui/Ux + Prototype web"></a>
+        <img src="imgs/vazio.png" width="10px">
         <br>
-        <li>
-            <h3><strong>Estação Hack [Facebook] + Cel.Lep</strong></h3><br>
-            <a href="bootcamps/cellep/c2.jpeg" target="_blank"><img src="bootcamps/cellep/c2.jpeg"  height="60" alt="Ui/Ux + Prototype web" title="Ui/Ux + Prototype web"></a>
-            <img src="imgs/vazio.png" width="10px">
-        </li>
+    </details>
+    <!-- BYLEARN -->
+    <details>
+        <summary><strong>ByLearn</strong></summary>
+        <a href="bootcamps/bylearn/bl1.jpeg" target="_blank"><img src="bootcamps/bylearn/bl1.jpeg"  height="60" alt="Python faixa preta" title="Python faixa preta"></a>
+        <img src="imgs/vazio.png" width="10px">
         <br>
-        <li>
-            <h3><strong>ByLearn</strong></h3><br>
-            <a href="bootcamps/bylearn/bl1.jpeg" target="_blank"><img src="bootcamps/bylearn/bl1.jpeg"  height="60" alt="Python faixa preta" title="Python faixa preta"></a>
-            <img src="imgs/vazio.png" width="10px">
-        </li>
+    </details>
+    <!-- SENAI -->
+    <details>
+        <summary><strong>Senai</strong></summary><br>
+        <a href="bootcamps/senai/s1.jpeg" target="_blank"><img src="bootcamps/senai/s1.jpeg"  height="60" alt="Logica de programação" title="Logica de programação"></a>
+        <img src="imgs/vazio.png" width="10px">
+        <a href="bootcamps/senai/s2.jpeg" target="_blank"><img src="bootcamps/senai/s2.jpeg"  height="60" alt="Tecnologia da Informação e Comunicação" title="Tecnologia da Informação e Comunicação"></a>
+        <img src="imgs/vazio.png" width="10px">
         <br>
-        <li>
-            <h3><strong>Senai</strong></h3><br>
-            <a href="bootcamps/senai/s1.jpeg" target="_blank"><img src="bootcamps/senai/s1.jpeg"  height="60" alt="Logica de programação" title="Logica de programação"></a>
-            <img src="imgs/vazio.png" width="10px">
-            <a href="bootcamps/senai/s2.jpeg" target="_blank"><img src="bootcamps/senai/s2.jpeg"  height="60" alt="Tecnologia da Informação e Comunicação" title="Tecnologia da Informação e Comunicação"></a>
-            <img src="imgs/vazio.png" width="10px">
-        </li>
-        <br>
-        <li>
-            <h3><strong>Flai</strong></h3><br>
-            <a href="bootcamps/flai/f1.jpeg" target="_blank"><img src="bootcamps/flai/f1.jpeg"  height="60" alt="Data Science" title="Data Science"></a>
-            <img src="imgs/vazio.png" width="10px">
-        </li>
-    </ul>
+    </details>
+    <!-- FLAI -->
+    <details>
+        <summary><strong>Flai</strong></summary>
+        <a href="bootcamps/flai/f1.jpeg" target="_blank"><img src="bootcamps/flai/f1.jpeg"  height="60" alt="Data Science" title="Data Science"></a>
+        <img src="imgs/vazio.png" width="10px">
+    </details>
 </section>
 
 
