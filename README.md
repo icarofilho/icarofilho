@@ -227,7 +227,9 @@
     <!-- DIGITAL INNOVATION ONE -->
     <details>
         <summary><strong>Digital Innovation One</strong></summary>
-        <a href="bootcamps/dio/santanderfullstack1.jpeg" target="_blank"><img src="bootcamps/dio/santanderfullstack1.jpeg"  height="60" alt="Ui/Ux + Prototype web" title="Ui/Ux + Prototype web"></a>
+        <a href="bootcamps/dio/avanadefullstack1.jpeg" target="_blank"><img src="bootcamps/dio/avanadefullstack1.jpeg"  height="60" alt="avanade fullstack" title="avanade fullstack"></a>
+        <img src="imgs/vazio.png" width="10px">
+        <a href="bootcamps/dio/santanderfullstack1.jpeg" target="_blank"><img src="bootcamps/dio/santanderfullstack1.jpeg"  height="60" alt="santander fullstack" title="santander fullstack"></a>
         <img src="imgs/vazio.png" width="10px">
     </details>
     <details>
@@ -240,6 +242,9 @@
             <a href="bootcamps/kenzieAcademy/ka1.jpeg" target="_blank"><img src="bootcamps/kenzieAcademy/ka1.jpeg"  height="60" alt="semana web" title="Semana web"></a>
             <img src="imgs/vazio.png" width="10px">
             <a href="bootcamps/kenzieAcademy/ka2.jpg" target="_blank"><img src="bootcamps/kenzieAcademy/ka2.jpg"  height="60" alt="Introdução a programação com javascript" title="Introdução a programação com javascript"></a>
+            <img src="imgs/vazio.png" width="10px">
+            <a href="bootcamps/kenzieAcademy/ka4.jpeg" target="_blank"><img src="bootcamps/kenzieAcademy/ka4.jpeg"  height="60" alt="maratona do zero ao código" title="maratona do zero ao código"></a>
+            <img src="imgs/vazio.png" width="10px">
             <br>
         </div>
     </details>
