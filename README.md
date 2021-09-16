@@ -1,11 +1,11 @@
-<header align="center">
-    <img src="imgs/banner.svg" alt="banner icaro" width="600px">
-    <h1>Hi, I'm Ícaro Ferreira</h1>
+<header>
+    <img align="center" src="https://github.com/icarofilho/icarofilho/blob/output/github-contribution-grid-snake.svg">
+    <h1 align="center">Hello, I'm Ícaro Ferreira :wave: </h1>
 </header>
 
 <!-- About ME -->
 <section>
-    <h2>About me</h2>
+    <h2>:man_technologist: About me</h2>
     <ul>
         <li>Bachelor of Aeronautical Science</li>
         <li>FullStack student at SENAI <a href="https://cursos.sesisenai.org.br/detalhes/devinhouse/25558">[DEVinHouse]</a></li>
@@ -18,7 +18,7 @@
 
 <!-- Skills -->
 <section>
-    <h2>Skills</h2>
+    <h2>:computer: Skills</h2>
     <!-- BASIC -->
     <ul>
         <li>
@@ -53,12 +53,11 @@
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarofilho&layout=compact">
     </div>
-<img src="https://github.com/icarofilho/icarofilho/blob/output/github-contribution-grid-snake.svg">
 <hr>
 </section>
 <!-- FIND ME AROUND THE WORLD -->
 <section>
-    <h2>Find me around the world</h2>
+    <h2>:world_map: Find me around the world</h2>
     <ul>
         <li><h4><strong>SOCIAL MEDIA</strong><br>
         </h4>
@@ -95,7 +94,7 @@
 </section>
 
 
-<h2>Hackathon Certifications</h2> 
+<h2>📃Hackathon Certifications</h2> 
 <details>
 <!-- RECODEPRO -->
     <summary><strong>Recode Pro</strong></summary>
@@ -106,7 +105,7 @@
 </details>
 <hr>
 <!-- Courses certifications -->
-<h2>Courses certifications</h2>
+<h2>👨‍🎓Courses certifications</h2>
 <details>
     <summary><strong>Estudonauta</strong></summary>
     <div>
@@ -223,7 +222,7 @@
 <hr>
 <!-- BOOTCAMPS -->
 <section>
-    <h2>Bootcamps Certifications</h2>
+    <h2>📚Bootcamps Certifications</h2>
     <!-- DIGITAL INNOVATION ONE -->
     <details>
         <summary><strong>Digital Innovation One</strong></summary>
