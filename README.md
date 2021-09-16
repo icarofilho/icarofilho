@@ -53,9 +53,9 @@
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarofilho&layout=compact">
     </div>
+<img src="https://github.com/icarofilho/icarofilho/blob/output/github-contribution-grid-snake.svg">
 <hr>
 </section>
-![Snake animation](https://github.com/icarofilho/icarofilho/blob/output/github-contribution-grid-snake.svg)
 <!-- FIND ME AROUND THE WORLD -->
 <section>
     <h2>Find me around the world</h2>
