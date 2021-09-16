@@ -55,7 +55,7 @@
     </div>
 <hr>
 </section>
-
+![Snake animation](https://github.com/icarofilho/icarofilho/blob/output/github-contribution-grid-snake.svg)
 <!-- FIND ME AROUND THE WORLD -->
 <section>
     <h2>Find me around the world</h2>
