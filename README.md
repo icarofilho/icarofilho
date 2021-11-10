@@ -19,39 +19,40 @@
 <!-- Skills -->
 <section>
     <h2>:computer: Skills</h2>
-    <!-- BASIC -->
-    <ul>
-        <li>
-            <h4><strong>BASIC</strong></h4>
-            <table style="text-align: center">
-                <th>HTML5</th>
-                <th>CSS3</th>
-                <th>JScript</th>
-                <th>C#</th>
-                <th>MySQL</th>
-                <th>Postgre</th>
-                <tr>
-                <td><img src="imgs/html.svg" height="40px" alt="tag html"></td>
-                <td><img src="imgs/css.svg" height="40px" alt="tag css"></td>
-                <td><img src="imgs/javascript.svg" height="40px" alt="tag javascript"></td>
-                <td><img src="imgs/csharp.svg" height="40px" alt="tag javascript"></td>
-                <td><img src="imgs/mysql.svg" height="40px" alt="tag javascript"></td>
-                <td><img src="imgs/postgresql.svg" height="40px" alt="tag javascript"></td>
-                </tr>
-            </table>
-        </li>
-        <li>
-            <h4><strong>INTERMEDIATE</strong></h4>
-            <table>
-                <th>Python</th>
-                <tr>
-                <td><img src="imgs/python.svg" height="40px" alt="tag python"></td>
-                </tr>
-            </table>
-        </li>
-    </ul>
+    <!-- FRONT-END -->
+    <table style="text-align: center">
+        <th>HTML5</th>
+        <th>CSS3</th>
+        <th>JScript</th>
+        <th>React</th>
+        <tr>
+        <td><img src="imgs/html.svg" height="40px" alt="html5"></td>
+        <td><img src="imgs/css.svg" height="40px" alt="css3"></td>
+        <td><img src="imgs/javascript.svg" height="40px" alt="javascript"></td>
+        <td><img src="imgs/react.svg" height="40px" alt="react"></td>
+        </tr>
+    </table>
+    <!-- BACK-END -->
+    <table style="text-align: center">
+        <th>Python</th>
+        <th style="text-align: center">C#</th>
+        <tr>
+        <td><img src="imgs/python.svg" height="40px" alt="tag python"></td>
+        <td><img src="imgs/csharp.svg" height="40px" alt="chsrp"></td>
+        </tr>
+    </table>
+    <!-- STORAGE -->
+    <table style="text-align: center">
+        <th>MySQL</th>
+        <th>Postgre</th>
+        <tr>
+        <td><img src="imgs/mysql.svg" height="40px" alt="mysql"></td>
+        <td><img src="imgs/postgresql.svg" height="40px" alt="postgresql"></td>
+        </tr>
+    </table>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarofilho&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=icarofilho&show_icons=true&hide=contribs,issues&count_private=true&bg_color=30,182896,17020F&title_color=2E854E&text_color=C9B857">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarofilho&layout=compact&langs_count=8&custom_title=Top 8 Langagues&bg_color=30,182896,17020F&title_color=2E854E&text_color=C9B857">
     </div>
 <hr>
 </section>
@@ -225,15 +226,26 @@
     <h2>📚Bootcamps Certifications</h2>
     <!-- DIGITAL INNOVATION ONE -->
     <details>
-        <summary><strong>Digital Innovation One</strong></summary>
+        <summary>
+            <strong>
+                Digital Innovation One
+                <img src="https://img.shields.io/badge/Certifications-3-informational?style=plastic">
+            </strong>
+        </summary>
         <a href="bootcamps/dio/avanadefullstack1.jpeg" target="_blank"><img src="bootcamps/dio/avanadefullstack1.jpeg"  height="60" alt="avanade fullstack" title="avanade fullstack"></a>
         <img src="imgs/vazio.png" width="10px">
         <a href="bootcamps/dio/santanderfullstack1.jpeg" target="_blank"><img src="bootcamps/dio/santanderfullstack1.jpeg"  height="60" alt="santander fullstack" title="santander fullstack"></a>
         <img src="imgs/vazio.png" width="10px">
+        <a href="bootcamps/dio/localizareact.jpeg" target="_blank"><img src="bootcamps/dio/localizareact.jpeg"  height="60" alt="localiza react" title="localiza react"></a>
+        <img src="imgs/vazio.png" width="10px">
     </details>
     <details>
     <!-- KENZIE ACADEMY -->
-        <summary><strong>Kenzie Academy</strong><br>
+        <summary>
+            <strong>
+                Kenzie Academy
+                <img src="https://img.shields.io/badge/Certifications-4-informational?style=plastic">
+            </strong><br>
         </summary>
         <div>
             <a href="bootcamps/kenzieAcademy/ka3.jpeg" target="_blank"><img src="bootcamps/kenzieAcademy/ka3.jpeg"  height="60" alt="Introdução a programação com python" title="Introdução a programação com python"></a>
@@ -249,23 +261,52 @@
     </details>
     <!-- ESTAÇÃO HACK -->
     <details>
-        <summary><strong>Estação Hack [Facebook] + Cel.Lep</strong></summary>
+        <summary>
+            <strong>
+                Estação Hack [Facebook] + Cel.Lep
+                <img src="https://img.shields.io/badge/Certifications-3-informational?style=plastic">
+            </strong>
+        </summary>
         <a href="bootcamps/cellep/c1.jpeg" target="_blank"><img src="bootcamps/cellep/c1.jpeg"  height="60" alt="Backend" title="BackEnd"></a>
         <img src="imgs/vazio.png" width="10px">
         <a href="bootcamps/cellep/c2.jpeg" target="_blank"><img src="bootcamps/cellep/c2.jpeg"  height="60" alt="Ui/Ux + Prototype web" title="Ui/Ux + Prototype web"></a>
+        <img src="imgs/vazio.png" width="10px">
+        <a href="bootcamps/cellep/c3.jpeg" target="_blank"><img src="bootcamps/cellep/c3.jpeg"  height="60" alt="front end" title="front end"></a>
         <img src="imgs/vazio.png" width="10px">
         <br>
     </details>
     <!-- BYLEARN -->
     <details>
-        <summary><strong>ByLearn</strong></summary>
+        <summary>
+            <strong>
+                ByLearn
+                <img src="https://img.shields.io/badge/Certifications-1-informational?style=plastic">
+            </strong>
+        </summary>
         <a href="bootcamps/bylearn/bl1.jpeg" target="_blank"><img src="bootcamps/bylearn/bl1.jpeg"  height="60" alt="Python faixa preta" title="Python faixa preta"></a>
+        <img src="imgs/vazio.png" width="10px">
+        <br>
+    </details>
+    <!-- TREINAWEB -->
+    <details>
+        <summary>
+            <strong>
+                TreinaWeb
+                <img src="https://img.shields.io/badge/Certifications-1-informational?style=plastic">
+            </strong>
+        </summary>
+        <a href="bootcamps/treinaweb/multi01.jpeg" target="_blank"><img src="bootcamps/treinaweb/multi01.jpeg"  height="60" alt="mult-stack" title="muilti-stack"></a>
         <img src="imgs/vazio.png" width="10px">
         <br>
     </details>
     <!-- SENAI -->
     <details>
-        <summary><strong>Senai</strong></summary><br>
+        <summary>
+            <strong>
+                Senai
+                <img src="https://img.shields.io/badge/Certifications-2-informational?style=plastic">
+            </strong>
+        </summary>
         <a href="bootcamps/senai/s1.jpeg" target="_blank"><img src="bootcamps/senai/s1.jpeg"  height="60" alt="Logica de programação" title="Logica de programação"></a>
         <img src="imgs/vazio.png" width="10px">
         <a href="bootcamps/senai/s2.jpeg" target="_blank"><img src="bootcamps/senai/s2.jpeg"  height="60" alt="Tecnologia da Informação e Comunicação" title="Tecnologia da Informação e Comunicação"></a>
@@ -274,16 +315,86 @@
     </details>
     <!-- FLAI -->
     <details>
-        <summary><strong>Flai</strong></summary>
+        <summary>
+            <strong>
+                Flai
+                <img src="https://img.shields.io/badge/Certifications-1-informational?style=plastic">
+            </strong>
+        </summary>
         <a href="bootcamps/flai/f1.jpeg" target="_blank"><img src="bootcamps/flai/f1.jpeg"  height="60" alt="Data Science" title="Data Science"></a>
         <img src="imgs/vazio.png" width="10px">
     </details>
     <!-- CISCO -->
     <details>
-        <summary><strong>Cisco</strong></summary>
+        <summary>
+            <strong>
+                Cisco
+                <img src="https://img.shields.io/badge/Certifications-1-informational?style=plastic">
+            </strong>
+        </summary>
         <a href="bootcamps/cisco/cisco0.jpeg" target="_blank"><img src="bootcamps/cisco/cisco0-0.jpeg"  height="60" alt="cisco bootcamp" title="cisco bootcamp"></a>
         <img src="imgs/vazio.png" width="10px">
     </details>
 </section>
-
-
+<hr>
+<!-- Public Repository -->
+<section>
+    <h2>Public Repository Index</h2>
+    <!-- PYTHON ESTUDONAUTA -->
+    <details>
+        <summary><strong>Python resolutions for Estudonauta</strong></summary>
+        <ul>
+            <li>
+                <label>Languages / Tecnologies used:  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"></label>
+            </li>
+            <li>
+                <span>Repository with all questions and resolutions of Estudonauta's python course.<br>
+                All solutions were made with the content passed by its lesson (something that was not taught, will not be used) </span>
+            </li>
+            <li>
+                <a href="https://github.com/icarofilho/estudonauta_python">[ Repo Link ]</a>
+            </li>
+        </ul>
+    </details>
+    <!-- SENAI DEVINHOUSE -->
+    <details>
+        <summary><strong>Senai - DEVinHouse [ Teltec - BRy ]</strong></summary>
+        <ul>
+            <li>
+                <label>Languages / Tecnologies used: 
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
+                <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
+                <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white">
+                <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB">
+                <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
+                </label>
+            </li>
+            <li>
+                <span>Repository with all exercises and projects given during this course</span>
+            </li>
+            <li>
+                <a href="https://github.com/icarofilho/DEVinHouse-Teltec-BRy">[ Repo Link ]</a>
+            </li>
+        </ul>
+    </details>
+    <!-- CHALLENGE -->
+    <details>
+        <summary><strong>Challenge</strong></summary>
+        <ul>
+            <li>
+                <label>Languages / Tecnologies used: 
+                <img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white">
+                <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
+                <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
+                </label>
+            </li>
+            <li>
+                <span>Solutions for HackerHank and CodeWars</span>
+            </li>
+            <li>
+                <a href="https://github.com/icarofilho/challenges">[ Repo Link ]</a>
+            </li>
+        </ul>
+    </details>
+</section>
